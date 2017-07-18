@@ -3,8 +3,8 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $grey-color-light;
-    min-height: 1000px;
+	border-bottom: 3px solid $grey-color-light;
+    min-height: 30px;
     background: $banner-color;
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -12,9 +12,9 @@
 }
 
 .site-title {
-    font-size: 26px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
+    font-size: 20px;
+ 		margin-top: 15px;
+    line-height: 50px; */
     letter-spacing: 2px;
     margin-bottom: 0;
     float: left;
