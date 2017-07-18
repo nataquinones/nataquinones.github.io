@@ -15,10 +15,11 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
+$background-color: #fdfdfd;
 $brand-color:      #0077CC;
-$umass-grey:      #63666a; 
+// $gameday-sky: #109dc0;
+$umass-grey:      #63666a;
 $umass-red:      #881c1c;
-$banner-color:   #ffffff;
 
 
 $grey-color:       #828282;
@@ -52,9 +53,9 @@ $on-laptop:        950px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "header",
-	"mobile-header",
+    "mobile-header",
         "base",
         "layout",
         "syntax-highlighting",
-	"fancy-image"
+    "fancy-image"
 ;
