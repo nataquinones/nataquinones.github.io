@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: #000000; // SOCIAL MEDIA LINKS
     text-decoration: none;
 
    &:visited {
@@ -98,8 +98,8 @@ a {
     } 
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $grey-color-light;
+        text-decoration: none;
     }
 }
 
