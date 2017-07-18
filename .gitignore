@@ -2,7 +2,6 @@
 .DS_Store
 Thumbs.db
 .cache
-.project
 *.sublime-project
 *.sublime-workspace
 
