@@ -1,0 +1,9 @@
+# os and editor
+.DS_Store
+Thumbs.db
+.cache
+.project
+*.sublime-project
+*.sublime-workspace
+
+# project specific
