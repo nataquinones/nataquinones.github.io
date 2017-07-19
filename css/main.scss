@@ -14,17 +14,17 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #000000;
 $background-color: #fdfdfd;
-$brand-color:      #0077CC;
+$brand-color:      #255168; // TNOTES: Color for the links
 // $gameday-sky: #109dc0;
 $umass-grey:      #63666a;
-$umass-red:      #881c1c;
+$umass-red:      #000000;
 
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 10%);
-$grey-color-dark:  darken($grey-color, 20%);
+$grey-color-dark:  darken($grey-color, 25%);
 
 
 // Width of the content area
@@ -53,9 +53,9 @@ $on-laptop:        950px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "header",
-    "mobile-header",
+	"mobile-header",
         "base",
         "layout",
         "syntax-highlighting",
-    "fancy-image"
+	"fancy-image"
 ;

@@ -3,10 +3,10 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    border-bottom: 0px solid $grey-color-light;
+	border-bottom: 0px solid $umass-grey;
     box-shadow: 0 1px 8px #888888;
-    min-height: 50px;
-    background: #ffffff;
+    min-height: 56px;
+    background: #ffffff; // TNOTE: Banner back
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -14,70 +14,68 @@
 
 .site-title {
     font-size: 32px;
-    margin-top: 15px;
-    line-height: 35px; 
+	margin-top: 0px;
+    line-height: 40px;
     letter-spacing: 1px;
-    margin-bottom: 0;
+    margin-bottom: 20px; // TNOTE: MARGEN INFERIOR
     float: left;
     font-weight: 200;
-    font-family: 'Helvetica Neue', sans-serif;
-    //font-style: italic;
-    font-variant: capitalize;
-    color: #000000;
+		font-family: 'Helvetica Neue', sans-serif;
+    color: #ffffff;
     &,
     &:visited {
         color: #000000;
     }
     &,
     &:hover {
-        color: #000000;
-    text-decoration: none;
+    color: #000000;
+	text-decoration: none;
 }
 }
 
 .site-header .wrapper {
-    padding-top: 10px;
-    position: relative;
+	padding-top: 20px;
+	position: relative;
 }
 
 .site-nav ul li a {
-    color: #000000;
+	color: #fff;
 }
 
 .site-nav ul {
-    text-align: center;
-    float: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-size: 85%;
-    letter-spacing: 1px;
-    line-height: 1em;
-    font-weight: 100;
-    text-transform: uppercase;
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-        font-family: 'Helvetica', sans-serif;
+
+	text-align: center;
+	float: center;
+	padding-top: 9px;
+	font-size: 85%;
+	letter-spacing: 1px;
+	line-height: 1em;
+	font-weight: 100;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-transform: uppercase;
+		font-family: 'Helvetica', sans-serif;
 
 }
 
 .site-nav .menu > li {
-    border-bottom: 3px solid transparent;
-    display: inline-block;
-    height: 20px;
-    line-height: normal;
-    margin: 12px 0 0 20px;
-    padding: 0 0 25px 0;
-    position: relative;
-    vertical-align: top;
+	border-bottom: 3px solid transparent;
+	display: inline-block;
+	height: 23px;
+	line-height: normal;
+	margin: 12px 0 0 20px;
+	padding: 0 0 25px 0; // TNOTES: BORDE INFERIOR
+	position: relative;
+	vertical-align: top;
 }
 
 .site-nav a {
-    display: block;
-        color: #000000;
+	display: block;
+        color: #ffffff;
     &:hover {
-        color: #c4c4c4; // TACHISNOTE: Color del hover del menu
-        text-decoration: none;
+        color: #c4c4c4; // TNOTE: Color del hover del menu
+        text-decoration: none; // TNOTE: Modification del hover del menu
     }
 }
 
@@ -90,7 +88,7 @@
     letter-spacing: 0;
     line-height: 1.2em;
     padding: 5px 10px;
-color: #522d80;
+    color: #565656; // TNOTE: Color del submenu
 
 }
 
@@ -113,12 +111,12 @@ color: #522d80;
 
 
 .sub-menu {
-    border: 2px solid transparent;
-    border-top: 0;
+    //border: 2px solid transparent;
+    //border-top: 0;
     /* bg and border colors set in header */
-    box-shadow: 0 2px 2px rgba(0,0,0,0.4);
-    -moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
-    -webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    //-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+    //-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
     display: none;
     right: -15px;
     padding: 0px 0 0px 0;
@@ -180,8 +178,8 @@ z-index:999;
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
+        //border: 1px solid $grey-color-light;
+        border-radius: 1px;
         text-align: right;
 
         .menu-icon {
@@ -190,7 +188,7 @@ z-index:999;
             width: 36px;
             height: 26px;
             line-height: 0;
-            padding-top: 10px;
+            padding-top: 25px;
             text-align: center;
 
             > svg {
@@ -210,12 +208,14 @@ z-index:999;
 
         &:hover .trigger {
             display: block;
-            padding-bottom: 5px;
+            padding-bottom: 0px;
         }
 
         .page-link {
             display: block;
-            padding: 5px 10px;
+            padding: 10px 10px;
         }
     }
 }
+
+

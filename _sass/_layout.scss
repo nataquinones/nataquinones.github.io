@@ -1,7 +1,15 @@
 
 
- .site-nav {
-    float: center;
+.site-nav {
+    .page-link {
+        color: #565656; // TNOTES: COLOR TEXTO MENU
+    }
+}
+
+
+
+/* .site-nav {
+    float: right;
     line-height: 40px;
 		margin-top: 15px;
 
@@ -10,8 +18,8 @@
     }
 
     .page-link {
-        color: #565656; //MENU
-        font-weight: 100;
+        color: #ffffff;
+    background: #f66733;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -22,7 +30,7 @@
 }
 
 
-/*
+
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
@@ -66,7 +74,6 @@
             padding: 5px 10px;
         }
     }
-}
 */ 
 
 
@@ -200,6 +207,7 @@ h1 /* .post-title */ {
 		font-family: 'Helvetica Neue', sans-serif;
 	font-weight: 500;
     font-size: 22px;
+/*        font-size: 32px; */
 
         @include media-query($on-laptop) {
 /*            font-size: 28px; */
@@ -208,7 +216,7 @@ h1 /* .post-title */ {
 
     h3 {
 		font-style: italic;
-        font-size: 18px;
+/*        font-size: 26px; */
 
         @include media-query($on-laptop) {
 /*            font-size: 22px; */
@@ -238,7 +246,7 @@ ul.listing {
 
 ul.listing li.listing-seperator {
 	padding-top: 15px;
-	font-weight: 700;
+	font-weight: bold;
 	font-family: 'Helvetica Neue', sans-serif;
 	font-size: 1.17em;
 }
@@ -252,7 +260,7 @@ ul.listing li.listing-item time {
 }
 
 ul.listing li.listing-item a {
-	color: #000000;
+	color: $umass-grey;
 	font-weight: 400;
 	font-family: 'Helvetica Neue', sans-serif;
 }

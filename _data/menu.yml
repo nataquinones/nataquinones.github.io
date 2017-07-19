@@ -9,13 +9,13 @@
 
 - title: "Projects"
   href: "/projects/"
-#  subcategories:
-#    - subtitle: "Programming"
-#      subhref: "/projects/programming/"
-#    - subtitle: "Photography"
-#      subhref: "/resources/photography/"
-#    - subtitle: "Origami"
-#      subhref: "/projects/origami/"
+  subcategories:
+    - subtitle: "Programming"
+      subhref: "/projects/programming/"
+    - subtitle: "Photography"
+      subhref: "/resources/photography/"
+    - subtitle: "Origami"
+      subhref: "/projects/origami/"
 
 - title: "Blog"
   href: "/blog/"
