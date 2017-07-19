@@ -1,3 +1,3 @@
-# UMASS Template
+# [nataquinones.github.io](http://nataquinones.github.io)
 
-This is my template for hosting a UMASS styled academic website. Instructions on how to use it can be found [here](http://mrlucasch.github.io/resources/academic-website/).
+This is my personal/academic website. It is built with a modified version of the [umass-website-template](https://github.com/mrlucasch/umass-website-template).
