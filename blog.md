@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /blog
 ---
 
-Tell us about your blog. Hopefully it's cool.
+Coming soon!
 
 <ul class="listing">
-{% for post in site.posts %}
+{% for post in site.categories.blog %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}

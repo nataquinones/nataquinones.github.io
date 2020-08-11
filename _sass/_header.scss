@@ -29,8 +29,7 @@
     &,
     &:hover {
     color: #000000;
-	text-decoration: none;
-}
+	text-decoration: none;}
 }
 
 .site-header .wrapper {
@@ -38,44 +37,43 @@
 	position: relative;
 }
 
-.site-nav ul li a {
-	color: #fff;
+.site-nav .menu > li {
+    display: inline-block;
+    margin: 10px 0 0 20px;
+
 }
 
 .site-nav ul {
 
-	text-align: center;
-	float: center;
-	padding-top: 9px;
-	font-size: 85%;
-	letter-spacing: 1px;
-	line-height: 1em;
-	font-weight: 100;
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	text-transform: uppercase;
-		font-family: 'Helvetica', sans-serif;
+    text-align: center;
+    float: center;
+    padding-top: 9px;
+    font-size: 85%;
+    letter-spacing: 1px;
+    line-height: 1em;
+    letter-spacing: 1.5px;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-transform: uppercase;
+        font-family: 'Helvetica', sans-serif;
 
-}
-
-.site-nav .menu > li {
-	border-bottom: 3px solid transparent;
-	display: inline-block;
-	height: 23px;
-	line-height: normal;
-	margin: 12px 0 0 20px;
-	padding: 0 0 25px 0; // TNOTES: BORDE INFERIOR
-	position: relative;
-	vertical-align: top;
 }
 
 .site-nav a {
-	display: block;
-        color: #ffffff;
+    display: block;
+        color: $text-color;
     &:hover {
-        color: #c4c4c4; // TNOTE: Color del hover del menu
-        text-decoration: none; // TNOTE: Modification del hover del menu
+        color: $hover-color;
+    }
+}
+
+.site-nav a.active {
+    font-weight: bold;
+    &:hover {
+        color: $text-color;
+
     }
 }
 
@@ -169,7 +167,8 @@ z-index:999;
         &:not(:first-child) {
             margin-left: 20px;
         }
-    }
+
+}
 
 
 
@@ -217,5 +216,3 @@ z-index:999;
         }
     }
 }
-
-

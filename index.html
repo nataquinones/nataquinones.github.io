@@ -1,16 +1,18 @@
 ---
-layout: default
+layout: default_home
+title: About
 ---
 
 <div class="home">
-{% include image.html url="/images/map.jpg" width=1000 caption="NASA/NOAA, 2013" align="center" %}
-<h1 align=center>Lorem ipsum dolor sit amet.</h1>	
-
-<p align=justify>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.</p>
-
-<p align=justify>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.</p>
-
-<p align=justify>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.</p>
-
+{% include avatar_image.html url="/images/nquinones.jpg" caption=none width=300 align="left" %}
+    <div class="home2">
+        <h1>Natalia Quiñones-Olvera</h1>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <div class="home3">
+            I am currently a graduate student in the <a href="https://baymlab.hms.harvard.edu">Baym Lab</a>, through the <a href="https://ssqbiophd.hms.harvard.edu">Harvard Systems Biology Graduate Program</a>. I did my undergraduate education at the <a href="http://132.248.10.125/index.php/about-us/">National Autonomous University of Mexico</a>, where I majored in Biology.
+        </div>
+        <div class="home3">
+            I study mobile genetic elements in bacteria, with a combination of dry and wet lab methods. I am particularly interested in the interaction between plasmids and bacteriophages. 
+        </div>
+    </div>
 </div>
-

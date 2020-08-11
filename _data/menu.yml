@@ -1,32 +1,22 @@
-- title: "Home"
+- title: "About"
   href: "/"
 
-- title: "About"
-  href: "/about/"
-
-- title: "Research"
-  href: "/research/"
-
 - title: "Projects"
-  href: "/projects/"
+  href: "/projects/science"
   subcategories:
-    - subtitle: "RNA Comp Bio"
-      subhref: "/projects/rna/"
-    - subtitle: "Other code"
-      subhref: "/projects/code/"
-    - subtitle: "Photography"
-      subhref: "/projects/photography/"
-    - subtitle: "Miscellaneous"
-      subhref: "/projects/misc/"
+    - subtitle: "Science"
+      subhref: "/projects/science"
+    - subtitle: "Other"
+      subhref: "/projects/other"
+
+- title: "Publications"
+  href: "/publications"
 
 - title: "Blog"
-  href: "/blog/"
+  href: "/blog"
 
-#- title: "Projects"
-  #href: "/projects"
-
-- title: "CV"
-  href: "/cv/"
+#- title: "CV"
+#  href: "/cv"
 
 #- title: "Resources"
 #  href: "/resources/"

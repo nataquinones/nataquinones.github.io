@@ -8,3 +8,4 @@ Thumbs.db
 # project specific
 _site/
 .sass-cache/
+.jekyll-cache/

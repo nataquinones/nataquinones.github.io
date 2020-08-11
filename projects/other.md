@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/science
-icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/230/petri-dish_1f9eb.png
+permalink: /projects/other
 ---
-
 
 {% include nav_sub.html  %}
 
-{% for post in site.categories.science %}
-
+{% for post in site.categories.other %}
 <div class="project-item">
   <div class="icon">
     {% if post.img %}
@@ -17,7 +14,7 @@ icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/face
     {% endif %}
   </div>
 
-  <div class="text">
+<div class="text">
       {% if post.alt_url %}
           <p class="title"><a href="{{ post.alt_url }}">{{ post.title }}</a>
       {% else %}
@@ -42,4 +39,3 @@ icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/face
 </div>
 
 {% endfor %}
-

@@ -14,9 +14,10 @@ github_username: nataquinones
 markdown: kramdown
 
 # Other options
-permalink: blog/:year/:month/:title
+permalink: /:categories/:title/
 job_title: "PhD Candidate"
 excerpt_separator: "<!--more-->"
+icon: "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/water-wave_1f30a.png"
 
 # SEO stuff
 # google_author: ""

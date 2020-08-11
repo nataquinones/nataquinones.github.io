@@ -1,16 +1,11 @@
 <ul class="menu">
-
-    {% for steve in site.data.menu %}
-    {% if steve.subcategories != null %}
-    <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
-    <ul class="sub-menu">
-    {% for subcategory in steve.subcategories %}
-    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% for i in site.data.menu %}
+    {% assign split_i = i.href | split: "/" %}
+    {% assign split_purl = page.url | split: "/" %}
+        {% if split_i[1] == split_purl[1] %}
+            <li><a class="active" href="{{ i.href }}">{{ i.title }}</a></li>
+        {% else %}
+            <li><a href="{{ i.href }}"> {{ i.title }}</a></li>
+        {% endif %}
     {% endfor %}
-    </ul>
-    {% else %}
-     <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
-    {% endif %}
-    </li>
-    {% endfor %}
-    </ul>
+</ul>

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /cv
+icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/alembic_2697.png
 ---
 <!---
 To get this link, upload to dropbox and then open the file on the dropbox website. Click sharing and then generate the link. Use that link below. Make sure that the link is of the form: https://www.dropbox.com/s/ALPHANUMERICSTRING/fname.pdf

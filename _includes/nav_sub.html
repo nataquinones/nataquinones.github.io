@@ -1,0 +1,18 @@
+<div class="menu-mini">
+    <ul class="nav">
+    {% for i in site.data.menu %}
+    {% assign split_i = i.href | split: "/" %}
+    {% assign split_purl = page.url | split: "/" %}
+
+    {% if split_i[1] == split_purl[1] %}
+        {% for subcategory in i.subcategories %}
+            {% if subcategory.subhref == page.url %}
+                <li><a class="active" href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+            {% else %}
+                <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+    {% endfor %}
+    </ul>
+</div>
