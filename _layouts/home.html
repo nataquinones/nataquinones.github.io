@@ -1,27 +1,24 @@
-<!DOCTYPE html>
+---
+layout: default
+---
 
-<html>
-  <!-- from _includes/head.html-->
-  {% include head.html %}
+<dl class="home-avatar" style="max-width: 300px">
+  <dt>
+    <img class="circle" src="/images/nquinones.jpg" />
+  </dt>
+</dl>
 
-  <body>
-    <!-- from _includes/header.html-->
-    {% include header.html %}
+<div class="home-box">
+<div class="page-heading">
+  <h1 >{{ site.title }}</h1>
+  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+</div>
 
-    <!-- content -->
-    <div class="page-content">
+<div class="home-paragraph">
+  {{ content }}
+</div>
+</div>
 
-      <div class="wrapper">
 
-        {{ content }}
 
-      </div>
 
-    </div>
-
-    <!-- from _includes/footer.html -->
-    {% include footer.html %}
-    
-  </body>
-
-</html>

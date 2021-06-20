@@ -1,16 +1,29 @@
-/**
- * Site header
- */
+// Header
+
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    border-bottom: 0px solid $umass-grey;
+    border-bottom: 0px solid #63666a;
     box-shadow: 0 1px 8px #888888;
     min-height: 56px;
-    background: #ffffff; // TNOTE: Banner back
-    // Positioning context for the mobile navigation icon
+    background: #ffffff;
     position: relative;
 
 }
+
+.site-header {
+    border-top: 0px solid $grey-color-dark;
+    box-shadow: 0 1px 8px #888888;
+    min-height: 56px;
+    background: #ffffff; // banner back
+    position: relative;
+
+}
+
+.site-header .wrapper {
+    position: relative;
+    padding-top: 20px;
+}
+
 
 .site-title {
     font-size: 32px;
@@ -32,10 +45,6 @@
     text-decoration: none;}
 }
 
-.site-header .wrapper {
-    padding-top: 20px;
-    position: relative;
-}
 
 .site-nav .menu > li {
     display: inline-block;
@@ -47,7 +56,6 @@
 
     text-align: center;
     float: center;
-    padding-top: 9px;
     font-size: 85%;
     letter-spacing: 1px;
     line-height: 1em;
@@ -77,73 +85,6 @@
     }
 }
 
-/* Sub Menu */
-
-.site-nav .sub-menu a {
-    display: block;
-    font-weight: normal;
-    height: auto;
-    letter-spacing: 0;
-    line-height: 1.2em;
-    padding: 5px 10px;
-    color: #565656; // TNOTE: Color del submenu
-
-}
-
-.site-nav .sub-menu a:hover {
-    color: #c4c4c4;
-}
-.site-nav  .sub-menu {
-    background: #ffffff;
-    border-color: #ffffff;
-    min-width: 10px;
-
-    z-index:2147483647;
-}
-.site-nav .sub-menu li.current-menu-item > a {
-    border-left-color: #000000;
-    border-right-color: #000000;
-    border-right: 0px;
-
-}
-
-
-.sub-menu {
-    //border: 2px solid transparent;
-    //border-top: 0;
-    /* bg and border colors set in header */
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    //-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
-    //-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
-    display: none;
-    right: -19px;
-    padding: 0px 0 0px 0;
-    position: absolute;
-    text-align: left;
-    text-transform: none;
-    top: 28px;
-    min-width: 10px;
-
-z-index:999;
-    font-family: Helvetica, Arial, Verdana, sans-serif;
-
-}
-
-.sub-menu li {
-    border-bottom: 0;
-    display: block;
-    height: auto;
-    margin: 0px 0;
-    padding: 0;
-    text-align: center;
-}
-
-.site-nav li:hover > .sub-menu {
-    display: block;
-}
-
-
-
 .site-nav h1 {
     position: absolute;
     left: -999em;
@@ -165,54 +106,61 @@ z-index:999;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
-        }
-
-}
-
-
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        //border: 1px solid $grey-color-light;
-        border-radius: 1px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 25px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 0px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 10px 10px;
+            margin-left: 20px;}
         }
     }
+
+
+
+// 
+
+.menu-mini {
+    color: #565656
+}
+
+.menu-mini ul {
+    text-align: center;
+    float: center;
+    padding-top: 9px;
+    font-size: 90%;
+    letter-spacing: 1px;
+    line-height: 1em;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-transform: uppercase;
+        font-family: 'Helvetica', sans-serif;
+    margin-top: -30px;
+    padding-bottom: 40px;
+}
+    
+.menu-mini .nav li {
+    border-bottom: 3px solid transparent;
+    display: inline-block;
+    height: 23px;
+    line-height: normal;
+    margin: 12px 0 0 20px;
+    padding: 0 0 25px 0; // TNOTES: BORDE INFERIOR
+    position: relative;
+    vertical-align: top;
+}
+
+.menu-mini .nav li a {
+    display: block;
+    color: #666;
+    text-align:center;
+    padding: 10px 12px;
+    text-decoration:none;
+}
+
+.menu-mini .nav li a:hover:not(.active) {
+    color: #c4c4c4;
+
+    /*font-style:italic;*/
+}
+
+.menu-mini .nav li a.active {
+    color: white;
+    background-color: $brand-color;
 }

@@ -1,4 +1,5 @@
 # This defines the navigation bar
+
 - title: "About"
   href: "/"
 
@@ -12,6 +13,3 @@
 
 - title: "Publications"
   href: "/publications"
-
-- title: "Blog"
-  href: "/blog"
