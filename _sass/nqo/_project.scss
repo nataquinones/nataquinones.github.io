@@ -1,0 +1,45 @@
+.project-item{
+  display: flex;
+  align-items: stretch;
+  margin: 10px;
+}
+
+.project-item .icon{
+    flex-basis: 15%;
+    text-align: center;
+    margin: 10px;
+    align-self: center;
+}
+
+.project-item .icon img{
+    max-height: 30px;
+    max-width: 100px;
+}
+
+
+.project-item .text{
+    flex-basis: 85%;
+    margin: 10px;
+    align-self: center;
+}
+
+.project-item .text .title{
+    border-bottom: solid 1px $grey-color-light;
+    line-height: 1; 
+    font-weight:bold;
+    font-size:20px;
+    margin-bottom:0;
+}
+
+.project-item .text .author{
+    display:block;
+    font-style:italic;
+    font-size:10px;
+    line-height:1.2em;
+    
+}
+
+.project-item .text .desc{
+     margin-top: 5px;
+    
+}

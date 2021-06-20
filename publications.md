@@ -14,3 +14,4 @@ icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/appl
 - Ioanna Kalvari, Joanna Argasinska, **Natalia Quinones-Olvera**, Eric P Nawrocki, Elena Rivas, Sean R Eddy, Alex Bateman, Robert D Finn, Anton I Petrov [<u>Rfam 13.0: shifting to a genome-centric resource for non-coding RNA families</u>](https://doi.org/10.1093/nar/gkx1038) (2018) *Nucleic Acids Research*
 
 - **Natalia Quinones-Olvera**, [<u>Implicaciones evolutivas de la plasticidad del RNA</u>](http://132.248.9.195/ptd2016/julio/0747279/Index.html) (2016) Universidad Nacional Autonoma de Mexico, Facultad de Ciencias, Thesis for Degree in Biology 
+

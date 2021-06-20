@@ -1,0 +1,15 @@
+# This defines the navigation bar
+
+- title: "About"
+  href: "/"
+
+- title: "Projects"
+  href: "/projects/science"
+  subcategories:
+    - subtitle: "Science"
+      subhref: "/projects/science"
+    - subtitle: "Other"
+      subhref: "/projects/other"
+
+- title: "Publications"
+  href: "/publications"

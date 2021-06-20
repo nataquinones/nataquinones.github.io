@@ -1,0 +1,82 @@
+.page-content {
+    padding:50px 0
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.page-heading h1 {
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 0px;
+    line-height: 1;
+}
+
+.page-heading a {
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+.post-header {
+    letter-spacing: 1.5px;
+    margin-bottom: $spacing-unit;
+    font-size: 13px;
+
+}
+
+.post-title {
+  @include relative-font-size(2.5);
+  letter-spacing: -1px;
+  line-height: 1;
+  font-weight: 400;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(2.25);
+  }
+}
+
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+  letter-spacing: -0.1px;
+
+}
+
+.home-box{
+    margin-top: 30px;
+    margin-left: 290px;
+}
+
+.home-paragraph{
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.home-paragraph p {
+  margin-top: 1em;
+  margin-bottom: 1em;}
+
+
+// 
+
+.home-avatar {
+    margin-top: 4px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.circle {
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+//
+.post-image{
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
