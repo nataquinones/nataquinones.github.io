@@ -80,3 +80,21 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+// blog
+.blog-list-subtitle {
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 150%;
+}
+
+.blog-list-item {
+    text-transform: uppercase;
+    font-style:italic;
+    padding: 10px;
+}
+
+.blog-list-item ul, li {
+    //list-style-type: none;
+
+}
