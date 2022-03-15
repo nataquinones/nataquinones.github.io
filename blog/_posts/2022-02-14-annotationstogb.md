@@ -5,9 +5,9 @@ date:   2022-02-14 01:10:00
 categories: blog
 ---
 
-Say you have a table of features for a specific genome, for instance, those provided by [IslandViewer 4](), and you want to add them to your own genome in GenBank format. (I say _table_, but this obviously applies for any list of features that includes appropriate genome coordinates.) Maybe they are even features that you discovered and you generated a `tsv` with them, but the point is that you don't want to write the whole `genbank` file from scratch.
+Say you have a table of features for a specific genome, for instance, those provided by [IslandViewer 4](https://www.pathogenomics.sfu.ca/islandviewer/), and you want to add them to your own genome in GenBank format. (I say _table_, but this obviously applies for any list of features that includes appropriate genome coordinates.) Maybe they are even features that you discovered and you generated a `tsv` with them, but the point is that you don't want to write the whole `genbank` file from scratch.
 
-[Biopython]() has a very nice parser to deal with GenBank format, so this task becomes super simple. As an example, let's say we want to add the islands detected by IslandViewer4 into the original NCBI's genbank file.
+[Biopython](https://biopython.org) has a very comprehensive parser to deal with GenBank format, so this task becomes super simple. As an example, let's say we want to add the islands detected by IslandViewer4 into the original NCBI's genbank file.
 
 - `NC_008463.1.gb`: GenBank file for [NC_008463.1 in NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_008463.1)
 - `NC_008463.1.tsv`: Results for [`NC_008463.1`'s in IslandViewer4](https://www.pathogenomics.sfu.ca/islandviewer/accession/NC_008463.1/) 
