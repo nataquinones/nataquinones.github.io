@@ -1,0 +1,347 @@
+Island start	Island end	Length	Method	Gene name	Gene ID	Locus	Gene start	Gene end	Strand	Product	External Annotations
+1306243	1328974	22731	Predicted by at least one method	WP_016254289.1		PA14_RS06145	1306243	1306407	-1	transposase	
+1306243	1328974	22731	Predicted by at least one method	WP_003124096.1		PA14_RS06150	1306410	1306970	-1	transposase	
+1306243	1328974	22731	Predicted by at least one method	WP_003132006.1		PA14_RS06155	1307101	1308090	-1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_003132004.1		PA14_RS06160	1308087	1308323	-1	mercury resistance protein	
+1306243	1328974	22731	Predicted by at least one method	WP_000995360.1		PA14_RS06165	1308320	1308685	-1	transcriptional regulator	
+1306243	1328974	22731	Predicted by at least one method	WP_011666568.1		PA14_RS06170	1308703	1310388	-1	mercuric reductase	
+1306243	1328974	22731	Predicted by at least one method	WP_003131987.1		PA14_RS06175	1310460	1310735	-1	mercuric transport protein periplasmic component	
+1306243	1328974	22731	Predicted by at least one method	WP_006224622.1		PA14_RS06180	1310748	1311098	-1	mercuric transporter	
+1306243	1328974	22731	Predicted by at least one method	WP_003131969.1		PA14_RS06185	1311170	1311604	1	mercuric resistance operon regulatory protein	
+1306243	1328974	22731	Predicted by at least one method	WP_011666570.1		PA14_RS06190	1312074	1312361	1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_011666571.1		PA14_RS06195	1312655	1313026	1	conjugal transfer protein TrbJ	
+1306243	1328974	22731	Predicted by at least one method	WP_011666572.1		PA14_RS06200	1313291	1314076	1	conjugal transfer protein TrbJ	
+1306243	1328974	22731	Predicted by at least one method	WP_011666573.1		PA14_RS06205	1314094	1314369	1	entry exclusion lipoprotein TrbK	
+1306243	1328974	22731	Predicted by at least one method	WP_011666574.1		PA14_RS06210	1314366	1315988	1	P-type conjugative transfer protein TrbL	
+1306243	1328974	22731	Predicted by at least one method	WP_011347386.1		PA14_RS06215	1316055	1316285	1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_016254287.1		PA14_RS06220	1316504	1316842	-1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_010378957.1		PA14_RS06225	1317148	1317348	1	transcriptional regulator	
+1306243	1328974	22731	Predicted by at least one method	WP_011666576.1		PA14_RS06230	1317407	1320187	1	lactate dehydrogenase	
+1306243	1328974	22731	Predicted by at least one method	WP_031632349.1		PA14_RS06235	1320188	1321234	1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_016254285.1		PA14_RS06240	1321278	1323335	1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_011666578.1		PA14_RS06245	1323328	1324512	1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_016254284.1		PA14_RS06250	1324575	1324808	1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_011666579.1		PA14_RS06255	1324805	1327411	1	hypothetical protein	
+1306243	1328974	22731	Predicted by at least one method	WP_003109802.1		PA14_RS06260	1328012	1328974	1	oxidoreductase	
+1917630	1944257	26627	Predicted by at least one method	WP_003091575.1		PA14_RS08915	1917630	1918799	1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method			PA14_RS08920	1918863	1919513	-1	quercetin 2,3-dioxygenase	
+1917630	1944257	26627	Predicted by at least one method	WP_031632378.1		PA14_RS08925	1919725	1920042	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_031632379.1		PA14_RS08930	1920384	1920692	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138368.1		PA14_RS08935	1922000	1922695	-1	serine recombinase	
+1917630	1944257	26627	Predicted by at least one method	WP_003138370.1		PA14_RS08940	1923032	1924132	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_031629652.1		PA14_RS08950	1926122	1926547	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138374.1		PA14_RS08960	1927460	1928419	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138376.1		PA14_RS08965	1929042	1931366	-1	tape measure domain-containing protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138378.1		PA14_RS08970	1931382	1932050	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138382.1		PA14_RS08985	1934355	1934861	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138384.1		PA14_RS08990	1935114	1935500	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138386.1		PA14_RS08995	1935570	1935905	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_016254256.1		PA14_RS09000	1936671	1936862	-1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_023098943.1		PA14_RS09005	1937254	1937490	1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_031632383.1		PA14_RS09010	1937833	1938234	1	hypothetical protein	
+1917630	1944257	26627	Predicted by at least one method	WP_003138396.1		PA14_RS09015	1939714	1941291	-1	serine recombinase	
+1917630	1944257	26627	Predicted by at least one method	WP_003091556.1		PA14_RS09020	1941322	1941585	-1	nuclease PIN	
+1917630	1944257	26627	Predicted by at least one method	WP_003138398.1		PA14_RS09025	1941725	1942528	-1	ABC transporter	
+1917630	1944257	26627	Predicted by at least one method	WP_003109177.1		PA14_RS09030	1942532	1943893	-1	serine protein kinase PrkA	
+1917630	1944257	26627	Predicted by at least one method	WP_003091551.1		PA14_RS09035	1944036	1944257	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method			PA14_RS08920	1918863	1919513	-1	quercetin 2,3-dioxygenase	
+1919505	1940811	21306	Predicted by at least one method	WP_031632378.1		PA14_RS08925	1919725	1920042	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_031632379.1		PA14_RS08930	1920384	1920692	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138368.1		PA14_RS08935	1922000	1922695	-1	serine recombinase	
+1919505	1940811	21306	Predicted by at least one method	WP_003138370.1		PA14_RS08940	1923032	1924132	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_031629652.1		PA14_RS08950	1926122	1926547	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138374.1		PA14_RS08960	1927460	1928419	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138376.1		PA14_RS08965	1929042	1931366	-1	tape measure domain-containing protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138378.1		PA14_RS08970	1931382	1932050	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138382.1		PA14_RS08985	1934355	1934861	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138384.1		PA14_RS08990	1935114	1935500	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138386.1		PA14_RS08995	1935570	1935905	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_016254256.1		PA14_RS09000	1936671	1936862	-1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_023098943.1		PA14_RS09005	1937254	1937490	1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_031632383.1		PA14_RS09010	1937833	1938234	1	hypothetical protein	
+1919505	1940811	21306	Predicted by at least one method	WP_003138396.1		PA14_RS09015	1939714	1941291	-1	serine recombinase	
+2485679	2491614	5935	Predicted by at least one method	WP_003138849.1		PA14_RS11735	2485638	2488136	1	hypothetical protein	
+2485679	2491614	5935	Predicted by at least one method	WP_003138850.1		PA14_RS11740	2488133	2489428	1	ATP/GTP-binding protein	
+2485679	2491614	5935	Predicted by at least one method	WP_003138851.1		PA14_RS11745	2489403	2491613	1	DEAD/DEAH box helicase	
+2678167	2721432	43265	Predicted by at least one method	WP_016254220.1		PA14_RS12590	2678196	2678438	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003138971.1		PA14_RS12595	2678435	2679706	-1	conjugative transfer protein TrbI	
+2678167	2721432	43265	Predicted by at least one method	WP_003138972.1		PA14_RS12600	2679709	2680698	-1	P-type conjugative transfer protein TrbG	
+2678167	2721432	43265	Predicted by at least one method	WP_003138973.1		PA14_RS12605	2680695	2681399	-1	conjugal transfer protein TrbF	
+2678167	2721432	43265	Predicted by at least one method	WP_003138975.1		PA14_RS12610	2681412	2682782	-1	conjugal transfer protein TrbL	
+2678167	2721432	43265	Predicted by at least one method	WP_016254219.1		PA14_RS12615	2682779	2683099	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003138979.1		PA14_RS12620	2683111	2683836	-1	conjugal transfer protein TrbJ	
+2678167	2721432	43265	Predicted by at least one method	WP_003138981.1		PA14_RS12625	2683833	2686286	-1	conjugal transfer protein TrbE	
+2678167	2721432	43265	Predicted by at least one method	WP_003138984.1		PA14_RS12630	2686299	2686571	-1	conjugal transfer protein TrbD	
+2678167	2721432	43265	Predicted by at least one method	WP_003138985.1		PA14_RS12635	2686568	2686960	-1	conjugal transfer protein TrbC	
+2678167	2721432	43265	Predicted by at least one method	WP_003138986.1		PA14_RS12640	2686957	2688027	-1	P-type conjugative transfer ATPase TrbB	
+2678167	2721432	43265	Predicted by at least one method	WP_003138987.1		PA14_RS12645	2688024	2688488	-1	CopG family transcriptional regulator	
+2678167	2721432	43265	Predicted by at least one method	WP_003138988.1		PA14_RS12650	2688485	2690485	-1	conjugal transfer protein TraG	
+2678167	2721432	43265	Predicted by at least one method	WP_025297938.1		PA14_RS12655	2690722	2691000	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_022580529.1		PA14_RS12660	2691005	2691940	-1	D-alanyl-D-alanine endopeptidase	
+2678167	2721432	43265	Predicted by at least one method	WP_003138990.1		PA14_RS12665	2692127	2692432	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003138992.1		PA14_RS12670	2692483	2693151	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_022580528.1		PA14_RS12675	2693164	2693856	-1	membrane protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003138997.1		PA14_RS12680	2693904	2697041	-1	cation transporter	
+2678167	2721432	43265	Predicted by at least one method	WP_003139001.1		PA14_RS12685	2697052	2698281	-1	cation transporter	
+2678167	2721432	43265	Predicted by at least one method	WP_003139003.1		PA14_RS12690	2698278	2699525	-1	cation transporter	
+2678167	2721432	43265	Predicted by at least one method	WP_016254216.1		PA14_RS12695	2699666	2700661	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_025297936.1		PA14_RS12700	2700661	2701059	-1	penicillinase repressor	
+2678167	2721432	43265	Predicted by at least one method	WP_016254215.1		PA14_RS12705	2701170	2703155	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003139016.1		PA14_RS12710	2703604	2704179	-1	peptidase	
+2678167	2721432	43265	Predicted by at least one method	WP_016254214.1		PA14_RS12715	2704176	2704733	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_016254213.1		PA14_RS12720	2704730	2705014	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003139018.1		PA14_RS12725	2705011	2705649	-1	ATPase	
+2678167	2721432	43265	Predicted by at least one method	WP_016254212.1		PA14_RS12730	2705903	2706760	-1	replication initiator and transcriptional regulator protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003107109.1		PA14_RS12735	2706787	2707068	-1	transcriptional regulator	
+2678167	2721432	43265	Predicted by at least one method	WP_011666628.1		PA14_RS12740	2707180	2707950	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_016254211.1		PA14_RS12745	2708294	2708644	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_016254210.1		PA14_RS12750	2708887	2709183	1	transcriptional regulator	
+2678167	2721432	43265	Predicted by at least one method	WP_016254209.1		PA14_RS12755	2709577	2709891	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_016254208.1		PA14_RS12760	2710672	2710881	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003139031.1		PA14_RS12765	2710945	2712999	-1	chromosome partitioning protein ParB	
+2678167	2721432	43265	Predicted by at least one method	WP_003139033.1		PA14_RS12770	2713081	2713905	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003139034.1		PA14_RS12775	2714625	2714903	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_016254207.1		PA14_RS12780	2714969	2715319	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003139161.1		PA14_RS12785	2715633	2716943	-1	MFS transporter	
+2678167	2721432	43265	Predicted by at least one method	WP_025297819.1		PA14_RS12790	2716953	2717210	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003139163.1		PA14_RS12795	2717346	2717738	-1	vacuolar-type H+ATPase subunit A	
+2678167	2721432	43265	Predicted by at least one method	WP_003139036.1		PA14_RS12800	2718015	2718521	-1	DNA repair protein RadC	
+2678167	2721432	43265	Predicted by at least one method	WP_003139037.1		PA14_RS12805	2718848	2720011	-1	hypothetical protein	
+2678167	2721432	43265	Predicted by at least one method	WP_003139038.1		PA14_RS12810	2720008	2721213	-1	integrase	
+2696925	2701201	4276	Predicted by at least one method	WP_003138997.1		PA14_RS12680	2693904	2697041	-1	cation transporter	
+2696925	2701201	4276	Predicted by at least one method	WP_003139001.1		PA14_RS12685	2697052	2698281	-1	cation transporter	
+2696925	2701201	4276	Predicted by at least one method	WP_003139003.1		PA14_RS12690	2698278	2699525	-1	cation transporter	
+2696925	2701201	4276	Predicted by at least one method	WP_016254216.1		PA14_RS12695	2699666	2700661	-1	hypothetical protein	
+2696925	2701201	4276	Predicted by at least one method	WP_025297936.1		PA14_RS12700	2700661	2701059	-1	penicillinase repressor	
+2696925	2701201	4276	Predicted by at least one method	WP_016254215.1		PA14_RS12705	2701170	2703155	-1	hypothetical protein	
+2709692	2713983	4291	Predicted by at least one method	WP_016254209.1		PA14_RS12755	2709577	2709891	-1	hypothetical protein	
+2709692	2713983	4291	Predicted by at least one method	WP_016254208.1		PA14_RS12760	2710672	2710881	-1	hypothetical protein	
+2709692	2713983	4291	Predicted by at least one method	WP_003139031.1		PA14_RS12765	2710945	2712999	-1	chromosome partitioning protein ParB	
+2709692	2713983	4291	Predicted by at least one method	WP_003139033.1		PA14_RS12770	2713081	2713905	-1	hypothetical protein	
+3177373	3187195	9822	Predicted by at least one method	WP_003111042.1		PA14_RS14530	3177507	3180521	1	transposase	Virulence gene(Victors,BLAST)
+3177373	3187195	9822	Predicted by at least one method	WP_003111043.1		PA14_RS14535	3180518	3180880	1	tpnA repressor protein	
+3177373	3187195	9822	Predicted by at least one method	WP_003111044.1		PA14_RS14540	3181060	3181524	-1	acetyltransferase	
+3177373	3187195	9822	Predicted by at least one method	WP_003111045.1		PA14_RS14545	3181532	3182437	-1	hypothetical protein	
+3177373	3187195	9822	Predicted by at least one method	WP_003111046.1		PA14_RS14550	3182434	3183162	-1	hypothetical protein	
+3177373	3187195	9822	Predicted by at least one method	WP_003111048.1		PA14_RS14555	3184999	3186315	-1	hypothetical protein	
+3177373	3187195	9822	Predicted by at least one method	WP_003111049.1		PA14_RS14560	3186337	3187080	-1	hypothetical protein	
+3177373	3187195	9822	Predicted by at least one method	WP_003111050.1		PA14_RS14565	3187110	3188081	-1	recombinase	
+4207416	4211593	4177	Predicted by at least one method	WP_003100101.1		PA14_RS19195	4207180	4208721	-1	MFS transporter	Resistance gene(RGI)
+4207416	4211593	4177	Predicted by at least one method	WP_003082696.1		PA14_RS19200	4208879	4209493	1	transcriptional regulator	
+4207416	4211593	4177	Predicted by at least one method	WP_003082694.1		PA14_RS19205	4209501	4209887	-1	hypothetical protein	
+4207416	4211593	4177	Predicted by at least one method	WP_003133440.1		PA14_RS19210	4209901	4211259	-1	MFS transporter	
+4207416	4211593	4177	Predicted by at least one method	WP_003133443.1		PA14_RS19215	4211367	4212278	1	transcriptional regulator	
+4345187	4353159	7972	Predicted by at least one method	WP_003140495.1		PA14_RS19850	4345187	4346203	-1	integrase	
+4345187	4353159	7972	Predicted by at least one method	WP_003140497.1		PA14_RS19855	4346203	4347501	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003140504.1		PA14_RS19860	4347730	4349013	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003114150.1		PA14_RS19865	4349017	4349373	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_016254132.1		PA14_RS19870	4349378	4350697	-1	bacteriophage coat protein A	
+4345187	4353159	7972	Predicted by at least one method	WP_003140506.1		PA14_RS19875	4350851	4351099	-1	phage capsid protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003115979.1		PA14_RS19880	4351112	4351363	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003115130.1		PA14_RS19885	4351376	4351468	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003140508.1		PA14_RS19890	4351485	4351919	-1	DNA-binding protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003140510.1		PA14_RS19895	4352054	4352431	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003140511.1		PA14_RS19900	4352435	4352725	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003140513.1		PA14_RS19905	4352729	4352941	-1	hypothetical protein	
+4345187	4353159	7972	Predicted by at least one method	WP_003140516.1		PA14_RS19910	4352944	4353159	-1	hypothetical protein	
+4750073	4755846	5773	Predicted by at least one method	WP_016254112.1		PA14_RS21810	4750206	4750496	-1	hypothetical protein	
+4750073	4755846	5773	Predicted by at least one method			PA14_RS21815	4750546	4751426	-1	integrase	
+4750073	4755846	5773	Predicted by at least one method	WP_003140873.1		PA14_RS21820	4751681	4752283	1	hypothetical protein	
+4860217	4868990	8773	Predicted by at least one method	WP_003141086.1		PA14_RS22335	4860413	4860634	1	hypothetical protein	
+4860217	4868990	8773	Predicted by at least one method	WP_003141087.1		PA14_RS22340	4860837	4861445	-1	hypothetical protein	
+4860217	4868990	8773	Predicted by at least one method	WP_003141088.1		PA14_RS22345	4861608	4862516	-1	AraC family transcriptional regulator	
+4860217	4868990	8773	Predicted by at least one method	WP_003141089.1		PA14_RS22350	4862635	4863513	-1	serine acetyltransferase	
+4860217	4868990	8773	Predicted by at least one method	WP_003141090.1		PA14_RS22355	4863414	4865318	-1	saccharopine dehydrogenase	
+4860217	4868990	8773	Predicted by at least one method	WP_003141091.1		PA14_RS22360	4865315	4866469	-1	saccharopine dehydrogenase	
+4860217	4868990	8773	Predicted by at least one method	WP_003141092.1		PA14_RS22365	4866692	4867507	-1	thioesterase	
+4860217	4868990	8773	Predicted by at least one method	WP_003141093.1		PA14_RS22370	4867504	4871967	-1	non-ribosomal peptide synthetase	
+4873461	4888434	14973	Predicted by at least one method	WP_003141094.1		PA14_RS22375	4872096	4875437	-1	non-ribosomal peptide synthetase	
+4873461	4888434	14973	Predicted by at least one method	WP_003141095.1		PA14_RS22380	4875551	4878535	-1	putative siderophore biosynthesis enzyme	
+4873461	4888434	14973	Predicted by at least one method	WP_003141098.1		PA14_RS22385	4878789	4880135	-1	hypothetical protein	
+4873461	4888434	14973	Predicted by at least one method	WP_003141100.1		PA14_RS22390	4880090	4881058	-1	hypothetical protein	
+4873461	4888434	14973	Predicted by at least one method	WP_003141102.1		PA14_RS22395	4881162	4882919	-1	ABC transporter	
+4873461	4888434	14973	Predicted by at least one method	WP_003141104.1		PA14_RS22400	4882923	4884677	-1	ABC transporter	
+4873461	4888434	14973	Predicted by at least one method	WP_003141107.1		PA14_RS22405	4884920	4885870	1	ABC transporter substrate-binding protein	
+4873461	4888434	14973	Predicted by at least one method	WP_003141108.1		PA14_RS22410	4885877	4886899	1	ABC transporter permease	
+4873461	4888434	14973	Predicted by at least one method	WP_003141110.1		PA14_RS22415	4886892	4887956	1	ABC transporter permease	
+4873461	4888434	14973	Predicted by at least one method	WP_003141111.1		PA14_RS22420	4887953	4888810	1	iron-enterobactin transporter ATP-binding protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141367.1		PA14_RS24035	5251580	5252446	1	cobyrinic acid a,c-diamide synthase	
+5251435	5298089	46654	Predicted by at least one method	WP_016254077.1		PA14_RS24040	5252448	5253185	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141370.1		PA14_RS24045	5253182	5253679	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141374.1		PA14_RS24050	5253822	5254508	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141376.1		PA14_RS24055	5254508	5255209	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141378.1		PA14_RS24060	5255206	5255913	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141381.1		PA14_RS24065	5255897	5256121	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_011666752.1		PA14_RS24070	5256118	5257464	1	replicative DNA helicase	
+5251435	5298089	46654	Predicted by at least one method	WP_003157042.1		PA14_RS24075	5257461	5257646	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141385.1		PA14_RS24080	5257636	5258163	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003134081.1		PA14_RS24085	5258160	5258417	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003117032.1		PA14_RS24090	5258731	5258904	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003103841.1		PA14_RS24095	5258897	5259130	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_011666753.1		PA14_RS24100	5259130	5260146	1	nucleoid-associated protein	
+5251435	5298089	46654	Predicted by at least one method	WP_016254076.1		PA14_RS24105	5260149	5260397	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141405.1		PA14_RS24110	5260394	5262133	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141406.1		PA14_RS24115	5262161	5262928	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_011666754.1		PA14_RS24120	5262925	5264250	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141408.1		PA14_RS24125	5264513	5264752	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_011666755.1		PA14_RS24130	5265022	5265750	1	integrating conjugative element protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141409.1		PA14_RS24135	5265756	5266289	1	integrase	
+5251435	5298089	46654	Predicted by at least one method	WP_003141410.1		PA14_RS24140	5266303	5266773	1	single-stranded DNA-binding protein	
+5251435	5298089	46654	Predicted by at least one method	WP_031632737.1		PA14_RS24145	5266877	5267071	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141415.1		PA14_RS24150	5267621	5267854	-1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141417.1		PA14_RS24155	5268174	5270099	1	DNA topoisomerase I	
+5251435	5298089	46654	Predicted by at least one method	WP_003141421.1		PA14_RS24160	5270777	5272666	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141423.1		PA14_RS24165	5272663	5274636	1	helicase	
+5251435	5298089	46654	Predicted by at least one method	WP_003141425.1		PA14_RS24170	5275324	5276820	1	pyocin S5	
+5251435	5298089	46654	Predicted by at least one method	WP_003141427.1		PA14_RS24175	5276845	5277171	-1	colicin immunity protein	
+5251435	5298089	46654	Predicted by at least one method	WP_004347965.1		PA14_RS24180	5277443	5278567	1	pilus biosynthesis protein PilL	
+5251435	5298089	46654	Predicted by at least one method	WP_003141429.1		PA14_RS24185	5278567	5280276	1	type IVB pilus formation outer membrane protein, R64 PilN family	
+5251435	5298089	46654	Predicted by at least one method	WP_003141431.1		PA14_RS24190	5280280	5281605	1	type IV b pilus protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141432.1		PA14_RS24195	5281595	5282128	1	pilus assembly protein PilX	
+5251435	5298089	46654	Predicted by at least one method	WP_031653372.1		PA14_RS24200	5282176	5283717	1	pilus assembly protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003109360.1		PA14_RS24205	5283717	5284796	1	type II secretion system protein F	
+5251435	5298089	46654	Predicted by at least one method	WP_003141434.1		PA14_RS24210	5284818	5285348	1	pilus assembly protein PilX	
+5251435	5298089	46654	Predicted by at least one method	WP_031632741.1		PA14_RS24215	5285351	5286286	1	twitching motility protein PilT	
+5251435	5298089	46654	Predicted by at least one method	WP_003141436.1		PA14_RS24220	5286291	5287619	1	type IV B pilus protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141437.1		PA14_RS24225	5287648	5288085	1	type IV B pilus protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141439.1		PA14_RS24230	5289000	5289566	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_016254072.1		PA14_RS24235	5290278	5290766	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_016254071.1		PA14_RS24240	5291137	5291337	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141447.1		PA14_RS24245	5291822	5292529	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141448.1		PA14_RS24250	5292765	5293115	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141451.1		PA14_RS24255	5293173	5293808	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003117060.1		PA14_RS24260	5293805	5294080	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141453.1		PA14_RS24265	5294150	5294512	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141455.1		PA14_RS24270	5294580	5294834	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141456.1		PA14_RS24275	5294926	5295531	1	hypothetical protein	
+5251435	5298089	46654	Predicted by at least one method	WP_003141457.1		PA14_RS24280	5295561	5297012	1	O-methyltransferase	
+5251435	5298089	46654	Predicted by at least one method	WP_003141458.1		PA14_RS24285	5297117	5299366	1	DEAD/DEAH box helicase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141367.1		PA14_RS24035	5251580	5252446	1	cobyrinic acid a,c-diamide synthase	
+5251481	5359434	107953	Predicted by at least one method	WP_016254077.1		PA14_RS24040	5252448	5253185	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141370.1		PA14_RS24045	5253182	5253679	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141374.1		PA14_RS24050	5253822	5254508	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141376.1		PA14_RS24055	5254508	5255209	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141378.1		PA14_RS24060	5255206	5255913	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141381.1		PA14_RS24065	5255897	5256121	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_011666752.1		PA14_RS24070	5256118	5257464	1	replicative DNA helicase	
+5251481	5359434	107953	Predicted by at least one method	WP_003157042.1		PA14_RS24075	5257461	5257646	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141385.1		PA14_RS24080	5257636	5258163	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003134081.1		PA14_RS24085	5258160	5258417	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003117032.1		PA14_RS24090	5258731	5258904	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003103841.1		PA14_RS24095	5258897	5259130	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_011666753.1		PA14_RS24100	5259130	5260146	1	nucleoid-associated protein	
+5251481	5359434	107953	Predicted by at least one method	WP_016254076.1		PA14_RS24105	5260149	5260397	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141405.1		PA14_RS24110	5260394	5262133	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141406.1		PA14_RS24115	5262161	5262928	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_011666754.1		PA14_RS24120	5262925	5264250	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141408.1		PA14_RS24125	5264513	5264752	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_011666755.1		PA14_RS24130	5265022	5265750	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141409.1		PA14_RS24135	5265756	5266289	1	integrase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141410.1		PA14_RS24140	5266303	5266773	1	single-stranded DNA-binding protein	
+5251481	5359434	107953	Predicted by at least one method	WP_031632737.1		PA14_RS24145	5266877	5267071	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141415.1		PA14_RS24150	5267621	5267854	-1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141417.1		PA14_RS24155	5268174	5270099	1	DNA topoisomerase I	
+5251481	5359434	107953	Predicted by at least one method	WP_003141421.1		PA14_RS24160	5270777	5272666	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141423.1		PA14_RS24165	5272663	5274636	1	helicase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141425.1		PA14_RS24170	5275324	5276820	1	pyocin S5	
+5251481	5359434	107953	Predicted by at least one method	WP_003141427.1		PA14_RS24175	5276845	5277171	-1	colicin immunity protein	
+5251481	5359434	107953	Predicted by at least one method	WP_004347965.1		PA14_RS24180	5277443	5278567	1	pilus biosynthesis protein PilL	
+5251481	5359434	107953	Predicted by at least one method	WP_003141429.1		PA14_RS24185	5278567	5280276	1	type IVB pilus formation outer membrane protein, R64 PilN family	
+5251481	5359434	107953	Predicted by at least one method	WP_003141431.1		PA14_RS24190	5280280	5281605	1	type IV b pilus protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141432.1		PA14_RS24195	5281595	5282128	1	pilus assembly protein PilX	
+5251481	5359434	107953	Predicted by at least one method	WP_031653372.1		PA14_RS24200	5282176	5283717	1	pilus assembly protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003109360.1		PA14_RS24205	5283717	5284796	1	type II secretion system protein F	
+5251481	5359434	107953	Predicted by at least one method	WP_003141434.1		PA14_RS24210	5284818	5285348	1	pilus assembly protein PilX	
+5251481	5359434	107953	Predicted by at least one method	WP_031632741.1		PA14_RS24215	5285351	5286286	1	twitching motility protein PilT	
+5251481	5359434	107953	Predicted by at least one method	WP_003141436.1		PA14_RS24220	5286291	5287619	1	type IV B pilus protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141437.1		PA14_RS24225	5287648	5288085	1	type IV B pilus protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141439.1		PA14_RS24230	5289000	5289566	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_016254072.1		PA14_RS24235	5290278	5290766	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_016254071.1		PA14_RS24240	5291137	5291337	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141447.1		PA14_RS24245	5291822	5292529	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141448.1		PA14_RS24250	5292765	5293115	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141451.1		PA14_RS24255	5293173	5293808	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003117060.1		PA14_RS24260	5293805	5294080	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141453.1		PA14_RS24265	5294150	5294512	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141455.1		PA14_RS24270	5294580	5294834	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141456.1		PA14_RS24275	5294926	5295531	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141457.1		PA14_RS24280	5295561	5297012	1	O-methyltransferase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141458.1		PA14_RS24285	5297117	5299366	1	DEAD/DEAH box helicase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141461.1		PA14_RS24290	5301490	5301825	1	transposase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141462.1		PA14_RS24295	5301889	5303424	1	transposase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141468.1		PA14_RS24300	5304246	5304920	-1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141470.1		PA14_RS24305	5305003	5305668	-1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_031641651.1		PA14_RS29935	5306123	5306485	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141473.1		PA14_RS24315	5307321	5308010	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141475.1		PA14_RS24320	5308021	5308776	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141478.1		PA14_RS24325	5308761	5309342	1	lytic transglycosylase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141479.1		PA14_RS24330	5309339	5309839	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141481.1		PA14_RS24335	5309848	5310105	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141485.1		PA14_RS24340	5310109	5312343	1	conjugative coupling factor TraD, PFGI-1 class	
+5251481	5359434	107953	Predicted by at least one method	WP_003141487.1		PA14_RS24345	5312343	5313089	1	integrating conjugative element membrane protein	
+5251481	5359434	107953	Predicted by at least one method	WP_031632748.1		PA14_RS24350	5313168	5313362	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141489.1		PA14_RS24355	5313527	5314075	1	fimbrial protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141491.1		PA14_RS24360	5314164	5314910	1	molecular chaperone	
+5251481	5359434	107953	Predicted by at least one method			PA14_RS24365	5314894	5317507	1	fimbrial protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141493.1		PA14_RS24370	5317504	5318850	1	fimbrial protein	
+5251481	5359434	107953	Predicted by at least one method	WP_031632750.1		PA14_RS24375	5318885	5319556	1	molecular chaperone	
+5251481	5359434	107953	Predicted by at least one method	WP_016254066.1		PA14_RS24380	5319600	5320250	-1	DNA-binding response regulator	
+5251481	5359434	107953	Predicted by at least one method	WP_003141499.1		PA14_RS24385	5320295	5323549	-1	hybrid sensor histidine kinase/response regulator	
+5251481	5359434	107953	Predicted by at least one method	WP_003141502.1		PA14_RS24390	5323630	5324829	-1	diguanylate phosphodiesterase	
+5251481	5359434	107953	Predicted by at least one method	WP_003141504.1		PA14_RS24395	5324826	5327621	-1	hybrid sensor histidine kinase/response regulator	
+5251481	5359434	107953	Predicted by at least one method	WP_011666758.1		PA14_RS24400	5327953	5328603	1	integrating conjugative element membrane protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141506.1		PA14_RS24405	5328614	5330095	1	DNA helicase	
+5251481	5359434	107953	Predicted by at least one method	WP_031632753.1		PA14_RS24410	5330966	5331166	-1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141510.1		PA14_RS24415	5331863	5332168	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_031632755.1		PA14_RS24420	5332262	5332600	1	type III effector Hop protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003125330.1		PA14_RS24425	5332597	5332836	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141513.1		PA14_RS24430	5332854	5333210	1	integrating conjugative element membrane protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141514.1		PA14_RS24435	5333221	5333607	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003086164.1		PA14_RS24440	5333604	5334263	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141515.1		PA14_RS24445	5334260	5335144	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141516.1		PA14_RS24450	5335128	5336633	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141517.1		PA14_RS24455	5336611	5337054	1	conjugal transfer protein	
+5251481	5359434	107953	Predicted by at least one method	WP_011666759.1		PA14_RS24460	5337054	5339996	1	conjugative transfer ATPase, PFL_4706 family	
+5251481	5359434	107953	Predicted by at least one method	WP_003086159.1		PA14_RS24465	5339993	5340277	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_011666760.1		PA14_RS24470	5340274	5340933	1	protein disulfide-isomerase	
+5251481	5359434	107953	Predicted by at least one method	WP_011666761.1		PA14_RS24475	5340930	5341148	-1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_031632759.1		PA14_RS24480	5341417	5341788	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141525.1		PA14_RS24485	5341788	5342726	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141526.1		PA14_RS24490	5342744	5344126	1	integrating conjugative element protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141527.1		PA14_RS24495	5344126	5344467	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141528.1		PA14_RS24500	5344464	5345975	1	conjugal transfer protein TraG	
+5251481	5359434	107953	Predicted by at least one method	WP_003086148.1		PA14_RS24505	5346464	5346736	1	addiction module antidote protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141530.1		PA14_RS24510	5346740	5347090	1	plasmid stabilization protein ParE	
+5251481	5359434	107953	Predicted by at least one method	WP_003141533.1		PA14_RS24515	5348012	5350435	1	ATP-dependent endonuclease	
+5251481	5359434	107953	Predicted by at least one method	WP_003141535.1		PA14_RS24520	5350432	5352363	1	ATPase AAA	
+5251481	5359434	107953	Predicted by at least one method	WP_003141540.1		PA14_RS24525	5354046	5354756	-1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method	WP_003141542.1		PA14_RS24530	5354756	5355289	-1	deoxycytidine deaminase	
+5251481	5359434	107953	Predicted by at least one method	WP_011666762.1		PA14_RS24535	5355824	5357743	1	hypothetical protein	
+5251481	5359434	107953	Predicted by at least one method			PA14_RS24540	5357740	5359024	1	recombinase XerC	
+5299340	5303341	4001	Predicted by at least one method	WP_003141458.1		PA14_RS24285	5297117	5299366	1	DEAD/DEAH box helicase	
+5299340	5303341	4001	Predicted by at least one method	WP_003141461.1		PA14_RS24290	5301490	5301825	1	transposase	
+5299340	5303341	4001	Predicted by at least one method	WP_003141462.1		PA14_RS24295	5301889	5303424	1	transposase	
+5303953	5315575	11622	Predicted by at least one method	WP_003141468.1		PA14_RS24300	5304246	5304920	-1	hypothetical protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141470.1		PA14_RS24305	5305003	5305668	-1	hypothetical protein	
+5303953	5315575	11622	Predicted by at least one method	WP_031641651.1		PA14_RS29935	5306123	5306485	1	hypothetical protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141473.1		PA14_RS24315	5307321	5308010	1	hypothetical protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141475.1		PA14_RS24320	5308021	5308776	1	integrating conjugative element protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141478.1		PA14_RS24325	5308761	5309342	1	lytic transglycosylase	
+5303953	5315575	11622	Predicted by at least one method	WP_003141479.1		PA14_RS24330	5309339	5309839	1	integrating conjugative element protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141481.1		PA14_RS24335	5309848	5310105	1	hypothetical protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141485.1		PA14_RS24340	5310109	5312343	1	conjugative coupling factor TraD, PFGI-1 class	
+5303953	5315575	11622	Predicted by at least one method	WP_003141487.1		PA14_RS24345	5312343	5313089	1	integrating conjugative element membrane protein	
+5303953	5315575	11622	Predicted by at least one method	WP_031632748.1		PA14_RS24350	5313168	5313362	1	hypothetical protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141489.1		PA14_RS24355	5313527	5314075	1	fimbrial protein	
+5303953	5315575	11622	Predicted by at least one method	WP_003141491.1		PA14_RS24360	5314164	5314910	1	molecular chaperone	
+5303953	5315575	11622	Predicted by at least one method			PA14_RS24365	5314894	5317507	1	fimbrial protein	
+5319021	5324939	5918	Predicted by at least one method	WP_031632750.1		PA14_RS24375	5318885	5319556	1	molecular chaperone	
+5319021	5324939	5918	Predicted by at least one method	WP_016254066.1		PA14_RS24380	5319600	5320250	-1	DNA-binding response regulator	
+5319021	5324939	5918	Predicted by at least one method	WP_003141499.1		PA14_RS24385	5320295	5323549	-1	hybrid sensor histidine kinase/response regulator	
+5319021	5324939	5918	Predicted by at least one method	WP_003141502.1		PA14_RS24390	5323630	5324829	-1	diguanylate phosphodiesterase	
+5319021	5324939	5918	Predicted by at least one method	WP_003141504.1		PA14_RS24395	5324826	5327621	-1	hybrid sensor histidine kinase/response regulator	
+5326366	5332131	5765	Predicted by at least one method	WP_003141504.1		PA14_RS24395	5324826	5327621	-1	hybrid sensor histidine kinase/response regulator	
+5326366	5332131	5765	Predicted by at least one method	WP_011666758.1		PA14_RS24400	5327953	5328603	1	integrating conjugative element membrane protein	
+5326366	5332131	5765	Predicted by at least one method	WP_003141506.1		PA14_RS24405	5328614	5330095	1	DNA helicase	
+5326366	5332131	5765	Predicted by at least one method	WP_031632753.1		PA14_RS24410	5330966	5331166	-1	hypothetical protein	
+5326366	5332131	5765	Predicted by at least one method	WP_003141510.1		PA14_RS24415	5331863	5332168	1	hypothetical protein	
