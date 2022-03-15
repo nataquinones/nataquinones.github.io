@@ -11,7 +11,7 @@ Say you have a table of features for a specific genome, for instance, those prov
 
 - `NC_008463.1.gb`: GenBank file for [NC_008463.1 in NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_008463.1)
 - `NC_008463.1.tsv`: Results for [`NC_008463.1`'s in IslandViewer4](https://www.pathogenomics.sfu.ca/islandviewer/accession/NC_008463.1/) 
-- _(You can download all these example files from [here]() if your want to follow the example.)_
+- _(You can download all these example files from [here](https://github.com/nataquinones/nataquinones.github.io/files/2022-02-14-annotationstogb) if your want to follow the example.)_
 
 
 ## Read and process **IslandViewer 4**'s tsv file
