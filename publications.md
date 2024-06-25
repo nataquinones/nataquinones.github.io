@@ -7,7 +7,7 @@ icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/appl
 
 - **Natalia Quinones-Olvera**\*, Siân V. Owen\* ‡, Lucy M. McCully, Maximillian G. Marin, Eleanor A. Rand, Alice C. Fan, Oluremi J. Martins Dosumu, Kay Paul, Cleotilde E. Sanchez Castaño, Rachel Petherbridge, Jillian S. Paull, Michael Baym ‡ [<u>Diverse and abundant phages exploit conjugative plasmids</u>](https://doi.org/10.1038/s41467-024-47416-z) (2024) *Nature Communications*
 
-- Maximillian G. Marin, Christoph Wippel, **Natalia Quinones-Olvera**, Mahboobeh Behruznia, Brendan M. Jeffrey, Michael Harris, Brendon C. Mann, Alex Rosenthal, Karen R. Jacobson, Robin M. Warren, Heng Li, Conor J. Meehan, Maha R. Farhat [<u>Analysis of the limited *M. tuberculosis* accessory genome reveals potential pitfalls of pan-genome analysis approaches</u>](https://www.biorxiv.org/content/10.1101/2024.03.21.586149v2) (2023) *BioRxiv*
+- Maximillian G. Marin, Christoph Wippel, **Natalia Quinones-Olvera**, Mahboobeh Behruznia, Brendan M. Jeffrey, Michael Harris, Brendon C. Mann, Alex Rosenthal, Karen R. Jacobson, Robin M. Warren, Heng Li, Conor J. Meehan, Maha R. Farhat [<u>Analysis of the limited <i>M. tuberculosis</i> accessory genome reveals potential pitfalls of pan-genome analysis approaches</u>](https://www.biorxiv.org/content/10.1101/2024.03.21.586149v2) (2023) *BioRxiv*
 
 - Karel Břinda, Leandro Lima, Simone Pignotti, **Natalia Quinones-Olvera**, Kamil Salikhov, Rayan Chikhi, Gregory Kucherov, Zamin Iqbal, Michael Baym [<u>Efficient and Robust Search of Microbial Genomes via Phylogenetic Compression</u>](https://www.biorxiv.org/content/10.1101/2023.04.15.536996v3) (2023) *BioRxiv*
 
