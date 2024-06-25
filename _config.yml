@@ -1,10 +1,10 @@
 title: Natalia Quinones-Olvera
-email: nataquinones@g.harvard.edu
+email: quinones@broadinstitute.org
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website: Research interests, CV,
   notes, blog, and contact information.
-address_l1: Harvard Medical School
-address_l2: Boston, MA, 02115, USA
+address_l1: 
+address_l2: Cambridge, MA, 02142, USA
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nataquinones.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nquinoneso
