@@ -10,6 +10,8 @@ description: Phage sizes vary widely, with genomes spanning several orders of ma
 
 _What even is a "big" phage? Or a "small" one?_ I wanted a figure to discuss this very question in a talk, but I couldn’t find a plot I actually liked. The closest thing was [this](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/41af/3820453/6e59e77cc92a/SCIENTIFICA2012-734023.002.jpg) figure from [Hyman and Abedon (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3820453/), which is helpful, but over a decade old, the y-axis labels are mysteriously missing (?), and more importantly, there’s been a major [taxonomic overhaul](https://pmc.ncbi.nlm.nih.gov/articles/PMC9868039/) since then. So, I figured it was time for a much-needed update.
 
+[2025-08-22] EDIT: I actually just came across [this one](https://www.nature.com/articles/s41579-019-0311-5/figures/2) too.
+
 If you use these figures or code, please cite it like:
 > Quinones-Olvera, N. Bacteriophage genome sizes https://github.com/nataquinones/phage_genome_size/
 
